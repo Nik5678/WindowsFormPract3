@@ -102,7 +102,7 @@
             Controls.Add(buttonCelsiusToFahrenheit);
             Controls.Add(textBoxTemperature);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Перевод температуры";
             ResumeLayout(false);
             PerformLayout();
         }

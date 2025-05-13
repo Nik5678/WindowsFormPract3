@@ -1,0 +1,16 @@
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\bin\Debug\net8.0-windows\3 задание.exe
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\bin\Debug\net8.0-windows\3 задание.deps.json
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\bin\Debug\net8.0-windows\3 задание.runtimeconfig.json
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\bin\Debug\net8.0-windows\3 задание.dll
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\bin\Debug\net8.0-windows\3 задание.pdb
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\_3_задание.Form1.resources
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\3 задание.csproj.GenerateResource.cache
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\3 задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\3 задание.AssemblyInfoInputs.cache
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\3 задание.AssemblyInfo.cs
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\3 задание.csproj.CoreCompileInputs.cache
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\3 задание.dll
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\refint\3 задание.dll
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\3 задание.pdb
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\3 задание.genruntimeconfig.cache
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\3 задание wf\3 задание\obj\Debug\net8.0-windows\ref\3 задание.dll
